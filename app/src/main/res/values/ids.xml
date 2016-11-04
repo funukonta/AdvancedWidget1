@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinnerJumlahAnak" type="id">spinneJumlahAnak</item>
+    <item name="LinearLayoutAnak" type="id">LinearLayoutAnak</item>
+    <item name="editTextHasil" type="id">editTextHasil</item>
+    <item name="buttonProses" type="id">buttonProses</item>
+</resources>
